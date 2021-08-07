@@ -6,8 +6,8 @@
 
 <hr>
 
-<h3>🚀 Some things you should know 👇</h3>
 <img align="right" src="https://media.giphy.com/media/8DTnuPhxv0m4w/giphy.gif" width="400px">
+<h3>🚀 Some things you should know 👇</h3>
 <ul>
 <li>👨‍💻 I'm currently a <em>Computer Science</em> student at <strong>University of Georgia</strong>.</li>
 <li>👨‍🔬 I'm working as a <em>Research Data Scientist</em> for <strong>US Department of Agriculture</strong>.</li>
