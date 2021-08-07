@@ -15,5 +15,4 @@
 <li>👨‍🎓 Learning every day.</li>
 </ul>
 
-<br>
 <hr>
