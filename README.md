@@ -14,3 +14,10 @@
 <li>☁  Worked as a <em>Cloud System Administrator</em> at <strong>Tata Consultancy Services</strong> for 12 months.</li>
 <li>👨‍🎓 Learning every day.</li>
 </ul>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
