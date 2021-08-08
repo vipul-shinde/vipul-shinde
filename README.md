@@ -17,11 +17,9 @@
 <li>☁  Worked as a <em>Cloud System Administrator</em> at <strong>Tata Consultancy Services</strong> for 12 months.</li>
 <li>👨‍🎓 Learning every day. I believe sharing is the best way of learning.</li>
 </ul>
-<br>
 <hr>
 
-<img align="left" src="https://thumbs.gfycat.com/WigglyDopeyLeopardseal-max-1mb.gif" width="300px">
-<div align="right">
+<img align="right" src="https://thumbs.gfycat.com/WigglyDopeyLeopardseal-max-1mb.gif" width="300px">
 <h3>🦄 While I am not doing Data Science 😉</h3>
 <ul>
     <li>I love to go to the gym 🏋️‍♂️</li>
@@ -30,8 +28,6 @@
     <li>Play Cricket 🏏</li>
     <li> Spotify 🤗</li>
 </ul>
-</div>
-<br>
 <hr>
 
 <h3>My Skills include 👨‍💻</h3>
