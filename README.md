@@ -19,17 +19,6 @@
 </ul>
 <hr>
 
-<img align="right" src="https://thumbs.gfycat.com/WigglyDopeyLeopardseal-max-1mb.gif" width="300px">
-<h3>🦄 While I am not doing Data Science 😉</h3>
-<ul>
-    <li>I love to go to the gym 🏋️‍♂️</li>
-    <li>Watch an Anime 🤓</li>
-    <li>Cook an amazing dish 👨‍🍳😋</li>
-    <li>Play Cricket 🏏</li>
-    <li> Spotify 🤗</li>
-</ul>
-<hr>
-
 <h3>My Skills include 👨‍💻</h3>
 <div>
     <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
@@ -47,6 +36,18 @@
 </div>
 <br>
 <hr>
+
+<img align="right" src="https://thumbs.gfycat.com/WigglyDopeyLeopardseal-max-1mb.gif" width="300px">
+<h3>🦄 While I am not doing Data Science 😉</h3>
+<ul>
+    <li>I love to go to the gym 🏋️‍♂️</li>
+    <li>Watch an Anime 🤓</li>
+    <li>Cook an amazing dish 👨‍🍳😋</li>
+    <li>Play Cricket 🏏</li>
+    <li> Spotify 🤗</li>
+</ul>
+<hr>
+
 <h3>How to reach me ✨</h3>
 <div>
     <a href="https://www.linkedin.com/in/vipul-shinde/">
