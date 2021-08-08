@@ -1,4 +1,4 @@
-<h1><strong>Hi, I'm Vipul</strong> <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="28px"></h1>
+<h1><strong>Hi, I'm <a href="https://vipulshinde.com">Vipul</a></strong> <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="28px"></h1>
 
 <div align="left"> 
     <img src="https://komarev.com/ghpvc/?username=vipul-shinde" alt="vipul-shinde"> 
@@ -20,7 +20,7 @@
 <br>
 <hr>
 
-<h3>My Skills include: 🦄</h3>
+<h3>My Skills include 🔥</h3>
 <div>
     <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
