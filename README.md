@@ -20,7 +20,16 @@
 <br>
 <hr>
 
-<h3>My Skills include 🔥</h3>
+<h3>🦄 While I am not doing Data Science 😬</h3>
+<ul>
+    <li>I love to go to the gym 🏋️‍♂️</li>
+    <li>Watch an Anime 🤓</li>
+    <li>Cook an amazing dish 👨‍🍳😋</li>
+    <li>Play Cricket 🏏</li>
+    <li> Spotify 🤗</li>
+</ul>
+
+<h3>My Skills include 👨‍💻</h3>
 <div>
     <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -33,10 +42,11 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 <br>
 <hr>
-<h3>Where to find me ✨</h3>
+<h3>How to reach me ✨</h3>
 <div>
     <a href="https://www.linkedin.com/in/vipul-shinde/">
         <img src="https://image.flaticon.com/icons/png/512/145/145807.png" width="30px">
