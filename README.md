@@ -14,5 +14,9 @@
 <li>☁  Worked as a <em>Cloud System Administrator</em> at <strong>Tata Consultancy Services</strong> for 12 months.</li>
 <li>👨‍🎓 Learning every day.</li>
 </ul>
-
+<br>
 <hr>
+<br>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=vipul-shinde&show_icons=true&theme=gotham" alt="vipul-shinde">
+</div>
