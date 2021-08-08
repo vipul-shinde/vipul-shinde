@@ -19,7 +19,7 @@
 </ul>
 <br>
 <hr>
-<h3>✨ Where to find me</h3>
+<h3>Where to find me ✨</h3>
 <div>
     <a href="https://www.linkedin.com/in/vipul-shinde/">
         <img src="https://image.flaticon.com/icons/png/512/145/145807.png" width="30px">
