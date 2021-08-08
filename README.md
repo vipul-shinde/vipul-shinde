@@ -11,6 +11,7 @@
 <hr>
 <img align="right" src="https://media.giphy.com/media/8DTnuPhxv0m4w/giphy.gif" width="300px">
 <h3>🚀 Some things you should know 👇</h3>
+&nbsp;
 <ul>
 <li>👨‍💻 I'm currently a <em>Computer Science</em> student at <strong>University of Georgia</strong>.</li>
 <li>👨‍🔬 I'm working as a <em>Research Data Scientist</em> for <strong>US Department of Agriculture</strong>.</li>
@@ -22,16 +23,17 @@
 <br>
 
 <h3>✨ Where to find me</h3>
-<div align="center">
+&nbsp;
+<div>
     <a href="https://www.linkedin.com/in/vipul-shinde/">
         <img src="https://image.flaticon.com/icons/png/512/145/145807.png" width="30px">
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="https://twitter.com/thevipulshinde/">
         <img src="https://image.flaticon.com/icons/png/512/145/145812.png" width="30px">
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="mailto: shindevipul205@gmail.com">
         <img src="https://image.flaticon.com/icons/png/512/732/732200.png" width="30px">
-    </a>
+    </a>&nbsp;&nbsp;
 </div>
 <hr>
 <br>
