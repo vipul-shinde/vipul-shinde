@@ -21,5 +21,5 @@
 <hr>
 <br>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vipul-shinde&show_icons=true&theme=algolia" alt="vipul-shinde">
+    <img src="https://github-readme-stats.vercel.app/api?username=vipul-shinde&show_icons=true&theme=prussian" alt="vipul-shinde">
 </div>
