@@ -1,6 +1,9 @@
 <h1><strong>Hi, I'm Vipul</strong> <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="28px"></h1>
 
-<div align="left"> 
+<div> 
+    <a href="https://www.linkedin.com/in/vipul-shinde/">
+        <img alt="Vipul's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">
+    </a>
     <img src="https://komarev.com/ghpvc/?username=vipul-shinde" alt="vipul-shinde"> 
 </div>
 
@@ -8,10 +11,8 @@
 
 <p>This is what I have learned over the past two years. I am an innovative person by nature and a data scientist by passion. I am currently a Master's in Computer Science student at the University of Georgia & a tech enthusiast who loves working with data and solve problems using Machine Learning and Data Science.</p>
 
-<div>
-<a href="https://www.linkedin.com/in/vipul-shinde/">
-  <img align="left" alt="Vipul's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">
-</a>
+<div align="left" >
+
 </div>
 
 <hr>
