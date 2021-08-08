@@ -19,6 +19,21 @@
 </ul>
 <br>
 <hr>
+
+<h3>My Skills include: 🦄</h3>
+<div>
+    <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+</div>
+<br>
+<hr>
 <h3>Where to find me ✨</h3>
 <div>
     <a href="https://www.linkedin.com/in/vipul-shinde/">
@@ -28,7 +43,7 @@
         <img src="https://image.flaticon.com/icons/png/512/145/145812.png" width="30px">
     </a>&nbsp;&nbsp;
     <a href="https://discordapp.com/users/Vipul#6101/">
-        <img src="https://image.flaticon.com/icons/png/512/2111/2111363.png" width="30px">
+        <img src="https://image.flaticon.com/icons/png/512/2111/2111370.png" width="30px">
     </a>&nbsp;&nbsp;
     <a href="mailto: shindevipul205@gmail.com">
         <img src="https://image.flaticon.com/icons/png/512/732/732200.png" width="30px">
