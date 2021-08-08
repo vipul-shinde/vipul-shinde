@@ -27,8 +27,14 @@
     <a href="https://twitter.com/thevipulshinde/">
         <img src="https://image.flaticon.com/icons/png/512/145/145812.png" width="30px">
     </a>&nbsp;&nbsp;
+    <a href="https://discordapp.com/users/Vipul#6101/">
+        <img src="https://image.flaticon.com/icons/png/512/2111/2111363.png" width="30px">
+    </a>&nbsp;&nbsp;
     <a href="mailto: shindevipul205@gmail.com">
         <img src="https://image.flaticon.com/icons/png/512/732/732200.png" width="30px">
+    </a>&nbsp;&nbsp;
+    <a href="https://github.com/vipul-shinde/">
+        <img src="https://image.flaticon.com/icons/png/512/25/25657.png" width="30px">
     </a>&nbsp;&nbsp;
 </div>
 <hr>
