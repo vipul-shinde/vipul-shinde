@@ -15,15 +15,9 @@
 <li>👨‍💻 I'm currently a <em>Computer Science</em> student at <strong>University of Georgia</strong>.</li>
 <li>👨‍🔬 I'm working as a <em>Research Data Scientist</em> for <strong>US Department of Agriculture</strong>.</li>
 <li>☁  Worked as a <em>Cloud System Administrator</em> at <strong>Tata Consultancy Services</strong> for 12 months.</li>
-<li>👨‍🎓 Learning every day.</li>
+<li>👨‍🎓 Learning every day. I believe sharing is the best way of learning.</li>
 </ul>
+<img src="https://image.flaticon.com/icons/png/512/1409/1409945.png" width="35px">
 <br>
 <hr>
 <br>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vipul-shinde&show_icons=true&theme=algolia" alt="vipul-shinde">
-</div>
-
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobephotoshop.svg">
-
-<img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
