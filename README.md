@@ -44,7 +44,7 @@
     <li>Watch an Anime 🤓</li>
     <li>Cook an amazing dish 👨‍🍳😋</li>
     <li>Play Cricket 🏏</li>
-    <li> Spotify 🤗</li>
+    <li> Spotify 🎧💚</li>
 </ul>
 <hr>
 
@@ -68,6 +68,6 @@
 </div>
 <hr>
 <br>
-<div align="center">
+<div align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=vipul-shinde&show_icons=true&theme=algolia"  width="400px" alt="vipul-shinde">
 </div>
