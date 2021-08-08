@@ -28,6 +28,8 @@
     <li>Play Cricket 🏏</li>
     <li> Spotify 🤗</li>
 </ul>
+<br>
+<hr>
 
 <h3>My Skills include 👨‍💻</h3>
 <div>
