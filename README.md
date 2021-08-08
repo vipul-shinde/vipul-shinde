@@ -20,6 +20,21 @@
 <br>
 <hr>
 <br>
+
+<h3>✨ Where to find me</h3>
+<div align="center">
+    <a href="https://www.linkedin.com/in/vipul-shinde/">
+        <img src="https://image.flaticon.com/icons/png/512/145/145807.png" width="30px">
+    </a>
+    <a href="https://twitter.com/thevipulshinde/">
+        <img src="https://image.flaticon.com/icons/png/512/145/145812.png" width="30px">
+    </a>
+    <a href="mailto: shindevipul205@gmail.com">
+        <img src="https://image.flaticon.com/icons/png/512/732/732200.png" width="30px">
+    </a>
+</div>
+<hr>
+<br>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=vipul-shinde&show_icons=true&theme=algolia" alt="vipul-shinde">
 </div>
