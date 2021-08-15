@@ -69,5 +69,5 @@
 <hr>
 <br>
 <div align="left">
-    <img src="https://https://github-readme-stats-vipul-shinde.vercel.app/api?username=vipul-shinde&show_icons=true&theme=algolia"  width="400px" alt="vipul-shinde">
+    <img src="https://github-readme-stats.vercel.app/api?username=vipul-shinde&show_icons=true&theme=algolia"  width="400px" alt="vipul-shinde">
 </div>
