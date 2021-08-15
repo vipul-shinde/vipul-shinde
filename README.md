@@ -68,10 +68,6 @@
 </div>
 <hr>
 <br>
-<<<<<<< HEAD
 <div align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=vipul-shinde&count_private=true&show_icons=true&theme=algolia&hide_rank=false"  width="400px" alt="vipul-shinde">
 </div>
-=======
-[![Vipul's github stats](https://github-readme-stats.vercel.app/api?username=vipul-shinde&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
->>>>>>> ae9d33061d5e3271a027681548ded1750fffa75f
