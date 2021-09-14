@@ -68,10 +68,10 @@
 </div>
 <hr>
 <br>
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=vipul-shinde&count_private=true&show_icons=true&theme=radical"  width="400px" alt="vipul-shinde">
+<div >
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=vipul-shinde&count_private=true&show_icons=true&theme=radical"  width="400px" alt="vipul-shinde">
+    &nbsp;&nbsp;
+    &nbsp;&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipul-shinde&layout=compact&theme=radical"  width="400px" alt="vipul-shinde">
 </div>
 
-<div align = "right">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipul-shinde&layout=compact&theme=radical"  width="400px" alt="vipul-shinde">
-</div>
