@@ -9,7 +9,7 @@
 <p>This is what I have learned over the past two years. I am an innovative person by nature and a data scientist by passion. I am currently a Master's in Computer Science student at the University of Georgia & a tech enthusiast who loves working with data and solve problems using Machine Learning and Data Science.</p>
 
 <hr>
-<img align="right" src="https://media.giphy.com/media/8DTnuPhxv0m4w/giphy.gif" width="300px">
+<img align="right" src="https://media.giphy.com/media/8DTnuPhxv0m4w/giphy.gif" width="250px">
 <h3>🚀 Some things you should know 👇</h3>
 <ul>
 <li>👨‍💻 I'm currently a <em>Computer Science</em> student at <strong>University of Georgia</strong>.</li>
@@ -37,7 +37,7 @@
 <br>
 <hr>
 
-<img align="right" src="https://thumbs.gfycat.com/WigglyDopeyLeopardseal-max-1mb.gif" width="300px">
+<img align="right" src="https://thumbs.gfycat.com/WigglyDopeyLeopardseal-max-1mb.gif" width="250px">
 <h3>🦄 While I am not doing Data Science 😉</h3>
 <ul>
     <li>I love to go to the gym 🏋️‍♂️</li>
