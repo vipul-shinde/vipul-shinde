@@ -1,4 +1,4 @@
-<h1><strong>Hi, I'm <a href="https://vipulshinde.com">Vipul</a></strong></h1>
+<h1><strong>Hi, I'm <a href="https://vipulshinde.com">Vipul</a></strong><img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" height="5px" width="5px"></h1>
 
 <div align="left"> 
     <img src="https://komarev.com/ghpvc/?username=vipul-shinde" alt="vipul-shinde"> 
@@ -14,7 +14,7 @@
 <ul>
 <li>👨‍💻 I'm currently a <em>Computer Science</em> student at <strong>University of Georgia</strong>.</li>
 <li>👨‍🔬 I'm working as a <em>Research Data Scientist</em> for <strong>US Department of Agriculture</strong>.</li>
-<li>☁  Worked as a <em>Cloud System Administrator</em> at <strong>Tata Consultancy Services</strong> for 12 months.</li>
+<li>☁  Worked as a <em>Cloud System Administrator</em> at <strong>Tata Consultancy Services</strong></li>
 <li>👨‍🎓 Learning every day. I believe sharing is the best way of learning.</li>
 </ul>
 <hr>
