@@ -37,7 +37,7 @@
 <br>
 <hr>
 
-<img align="right" src="https://thumbs.gfycat.com/WigglyDopeyLeopardseal-max-1mb.gif" width="300px">
+<img align="right" src="https://thumbs.gfycat.com/WigglyDopeyLeopardseal-max-1mb.gif" width="20px">
 <h3>🦄 While I am not doing Data Science 😉</h3>
 <ul>
     <li>I love to go to the gym 🏋️‍♂️</li>
