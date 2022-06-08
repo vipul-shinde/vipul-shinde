@@ -1,4 +1,4 @@
-<h1><strong>Hi, I'm <a href="https://vipulshinde.com">Vipul</a></strong> <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="28px"></h1>
+<h1><strong>Hi, I'm <a href="https://vipulshinde.com">Vipul</a></strong></h1>
 
 <div align="left"> 
     <img src="https://komarev.com/ghpvc/?username=vipul-shinde" alt="vipul-shinde"> 
